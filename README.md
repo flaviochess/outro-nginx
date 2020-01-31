@@ -1,2 +1,2 @@
 # outro-nginx
-Repositório para estudos de build de imagens docker através do próprio GitHub
+Repository to studies. If there's a new push into master branch the DockerHub will make a new build of this docker image.
